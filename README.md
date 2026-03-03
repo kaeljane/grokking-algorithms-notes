@@ -6,18 +6,20 @@ O objetivo aqui é documentar o meu progresso e ter um material visual de consul
 
 ## 🗂️ Conteúdo
 
-Os arquivos estão em formato **.pdf** e organizados conforme os tópicos abordados no livro. Basta clicar para visualizar:
+Abaixo estão os tópicos dos rascunhos em PDF disponíveis neste repositório:
 
-* [Capítulo 1: Introdução a algoritmos (Pesquisa Binária e Big O)](#)
-* [Capítulo 2: Ordenação por seleção (Arrays e Listas Encadeadas)](#)
-* [Capítulo 3: Recursão](#)
-* [Capítulo 4: Quicksort (Dividir para Conquistar)](#)
-* [Capítulo 5: Tabelas Hash](#)
-* [Capítulo 6: Pesquisa em Largura (Grafos)](#)
-* [Capítulo 7: Algoritmo de Dijkstra](#)
-* [Capítulo 8: Algoritmos Gulosos](#)
-* [Capítulo 9: Programação Dinâmica](#)
-* [Capítulo 10: K-vizinhos mais próximos (k-NN)](#)
+| Cap. | Assunto Principal | Estruturas & Conceitos |
+| :---: | :--- | :--- |
+| **01** | Introdução a Algoritmos | Pesquisa Binária e Big O |
+| **02** | Ordenação por Seleção | Arrays e Listas Encadeadas |
+| **03** | Recursão | Casos Base e Pilha de Chamada |
+| **04** | Quicksort | Dividir para Conquistar |
+| **05** | Tabelas Hash | Funções Hash e Colisões |
+| **06** | Pesquisa em Largura | Grafos e Filas |
+| **07** | Algoritmo de Dijkstra | Grafos Ponderados |
+| **08** | Algoritmos Gulosos | Problemas NP-completos |
+| **09** | Programação Dinâmica | Otimização com Subproblemas |
+| **10** | K-vizinhos mais próximos | k-NN e Extração de Características |
 
 > **Dica:** Se você estiver pelo computador, o próprio GitHub renderiza o PDF para leitura direto no navegador!
 
